@@ -1,0 +1,51 @@
+.bg-white {
+    background-color: white;
+}
+
+.bg-cyan {
+    background-color: #6283AA;
+}
+
+.al-text-c {
+    text-align: center;
+}
+
+.card{
+    background-color: #6283AA;
+    float: left;
+    margin-left: %10;
+    padding 10px
+}
+
+.body {
+    align-self: center;
+}
+
+.alt-center {
+    text-align: center;
+}
+
+.ali-center {
+    align-content: center;
+}
+
+.t-card {
+    background-color: gray;
+}
+
+.kutu {
+    border-style: inset;
+    border-width: 10px;
+} 
+
+.box {
+    width: 300 px;
+    height: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: rgb(218, 206, 206);
+    border-radius: 10px;
+    box-shadow: 5px;
+} 
